@@ -4,7 +4,7 @@
 
 DelicacyNet is an image processing model for food content prediction. In this paper, we present its structure, which consists of four layers. We used semantic understanding and then converted to vector modules and final data correspondences, so the degree of our semantic approximation will affect the result of the corresponding prediction. You can replace the encoder module and the decoder module, as the other modules are relatively independent and still achieve good performance.
 
-![model](.\datasets\model.png)
+![model](https://github.com/nerakoo/DelicacyNet/blob/main/datasets/model.png)
 
 
 
